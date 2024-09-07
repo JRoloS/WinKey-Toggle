@@ -1,3 +1,5 @@
+<H1>WINKEY TOGGLER/DISABLER</H1>
+
 <p align="center">
   <img src="https://github.com/JRoloS/WinKey-Toggle/blob/main/Resources/Screenshot.png" alt="Screenshot" />
 </p>
